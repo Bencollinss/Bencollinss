@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ben Mba Collins</h1>
+<h1 align="center">Hi 👋, I'm Ben Collins</h1>
 <h3 align="Left">A guy who has the quest to harness the power of TECH and use them to solve world problems</h3>
 <img align="center" alt="Coding" width="500" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
