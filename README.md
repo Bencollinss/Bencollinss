@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Cyber security, C programming**
 
-- 📫 How to reach me **mbakrnechukwucollins@gmail.com**
+- 📫 How to reach me **mbacollinskenechukwu@gmail.com**
 
 - ⚡ Fun fact **I Love Musical Instruments and Video Games**
 
