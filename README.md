@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/benmbacollins" target="blank"><img src="https://img.shields.io/twitter/follow/benmbacollins?logo=twitter&style=for-the-badge" alt="benmbacollins" /></a> </p>
 
-- 🌱 I’m currently learning **C programming and Cyber Security**
+- 🌱 I’m currently learning **C programming, web development, python and Cyber Security**
 
 - 💬 Ask me about **Cyber security, C programming**
 
